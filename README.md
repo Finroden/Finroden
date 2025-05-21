@@ -6,4 +6,4 @@ Here are some of my projects:
 
 - <a href="https://adrians-bmi-calculator.netlify.app" target="_blank">BMI Calculator</a>
 
-- <a href="https://adrians-to-do-list.netlify.app" target="_blank">To-do List</a>
+- <a href="https://adrians-todo-list.netlify.app" target="_blank">To-do List</a>
